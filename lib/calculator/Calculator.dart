@@ -10,7 +10,7 @@ class Calculator extends StatelessWidget {
       title: 'Calculator App',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Calculator'),
+          title: const Text('Calculator'),
           backgroundColor: Colors.blue,
           foregroundColor: Colors.white,
         ),
